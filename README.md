@@ -38,7 +38,7 @@ Additionally, the application was tested on **two operating systems** and with *
 
 ---
 
-## 📊 Sample Test Cases
+## 📊 Some Sample Test Cases
 | ID | Test Scenario | Input | Expected Result | Status |
 |----|---------------|-------|-----------------|--------|
 | P-1 | Click on "Reserve" with valid details | Valid trip data | A window with the title "Reserved Car" will appear in the center of the screen. Inside you will find the brand, license plate number, icon, address of the vehicle, as well as the cost of the trip and the "cancel" button. | ⚠️ Bug reported|
